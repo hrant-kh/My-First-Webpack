@@ -1,0 +1,1 @@
+(()=>{"use strict";document.querySelector(".button").addEventListener("click",(function(){document.querySelector(".button-context").innerHTML="Hi, my name is Hrant <br> I'm learn Front End <br> Welcome to my GibHub page !!!"}))})();
